@@ -10,8 +10,8 @@ export default {
           imageUrl: 'portfolio_v2',
           status: 'My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
           tech: 'VueJS 3, Tailwind',
-          github: 'https://github.com/rakha-elctrnx/Portofolio-v2',
-          demo: 'https://bagasrakha.netlify.app/'
+          github: 'https://github.com/kayyonly/personal-web',
+          demo: 'https://kayydeveloper.netlify.app/'
         },
         {
           id: 2,
@@ -19,8 +19,8 @@ export default {
           imageUrl: 'Portfolio_v3',
           status: 'A website that has a responsive display. to explain my profile, skills, and projects in mobile.',
           tech: 'Html, Css, Javascript',
-          github: 'https://github.com/KayyOnly/Gittaa',
-          demo: 'https://kayyonly.github.io/Gittaa/'
+          github: 'https://github.com/KayyOnly/mengatur-keuangan',
+          demo: 'https://mengatur-keuangan.vercel.app/'
         },
         {
           id: 3,
