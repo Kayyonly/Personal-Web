@@ -15,7 +15,7 @@ export default {
         },
         {
           id: 2,
-          name: 'Portofolio Mobile',
+          name: 'Mengatur keuangan',
           imageUrl: 'Portfolio_v3',
           status: 'A website that has a responsive display. to explain my profile, skills, and projects in mobile.',
           tech: 'Html, Css, Javascript',
