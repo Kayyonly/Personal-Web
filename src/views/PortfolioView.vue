@@ -18,7 +18,7 @@ export default {
           name: 'Mengatur keuangan',
           imageUrl: 'Portfolio_v3',
           status: 'A website that has a responsive display. to explain my profile, skills, and projects in mobile.',
-          tech: 'Html, Css, Javascript',
+          tech: 'typescript, tailwind css, json',
           github: 'https://github.com/KayyOnly/mengatur-keuangan',
           demo: 'https://mengatur-keuangan.vercel.app/'
         },
