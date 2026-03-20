@@ -23,7 +23,7 @@ export default {
           demo: 'https://mengatur-keuangan.vercel.app/'
         },
         {
-          id: 3,
+          id: 6,
           name: 'Wifi Qr Generator',
           imageUrl: 'WifiGenerator',
           status: 'System for creating Wifi Qr, so that it can be scanned by other people',
@@ -48,6 +48,15 @@ export default {
           tech: 'Codeigniter 3, Bootstrap',
           github: 'null',
           demo: 'null'
+        }
+        {
+          id: 3,
+          name: 'PrimeFlow',
+          imageUrl: 'sp2se',
+          status: 'Sistem Penghitung Harga Pokok, A web application to manage a bussines.',
+          tech: 'Vue, Tailwind, Typescript, Javascript, Json',
+          github: 'null',
+          demo: 'https://prime-flow-kayy.vercel.app/'
         }
       ]
     };
