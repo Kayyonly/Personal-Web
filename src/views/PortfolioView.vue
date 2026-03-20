@@ -26,7 +26,7 @@ export default {
           id: 3,
           name: 'PrimeFlow',
           imageUrl: 'PrimeFlow',
-          status: 'Sistem Penghitung Harga Pokok, A web application to manage a bussines.',
+          status: 'a useful website to calculate total production costs precisely to help you set accurate selling prices and maximize profit margins.',
           tech: 'Vue, Tailwind, Typescript, Javascript, Json',
           github: 'null',
           demo: 'https://prime-flow-kayy.vercel.app/'
