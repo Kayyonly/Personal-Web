@@ -52,7 +52,7 @@ export default {
         {
           id: 3,
           name: 'PrimeFlow',
-          imageUrl: 'sp2se',
+          imageUrl: 'PrimeFlow',
           status: 'Sistem Penghitung Harga Pokok, A web application to manage a bussines.',
           tech: 'Vue, Tailwind, Typescript, Javascript, Json',
           github: 'null',
